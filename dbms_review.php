@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>sign up page</title>
+	<title>sign up </title>
 <style>
 body {
     background-color:white;
